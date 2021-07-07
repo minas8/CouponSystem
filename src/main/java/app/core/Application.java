@@ -9,7 +9,6 @@ import app.core.filters.LoginFilter;
 import springfox.documentation.swagger2.annotations.EnableSwagger2;
 
 @SpringBootApplication
-//@EnableScheduling
 @EnableSwagger2
 public class Application {
 
